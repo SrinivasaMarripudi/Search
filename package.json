@@ -1,0 +1,24 @@
+{
+  "name": "elastic-node",
+  "version": "1.0.0",
+  "description": "Real time sample search engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SrinivasaMarripudi/Search.git"
+  },
+  "author": "Srinivasa Marripudi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SrinivasaMarripudi/Search/issues"
+  },
+  "homepage": "https://github.com/SrinivasaMarripudi/Search#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "elasticsearch": "^14.2.2",
+    "express": "^4.16.3"
+  }
+}
